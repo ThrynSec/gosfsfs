@@ -1,0 +1,13 @@
+{
+    "ftp":{
+        "ftp_server":"",
+        "ftp_port":123456,
+        "ftp_user":"",
+        "ftp_password":""
+    },
+    "save":{
+        "max_backup":15,
+        "frequency_unit":"day",
+        "frequency_occurence":2
+    }
+}
